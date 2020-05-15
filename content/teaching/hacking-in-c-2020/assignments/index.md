@@ -64,6 +64,6 @@ weight = 30
 
 * [``man malloc``](http://man7.org/linux/man-pages/man3/malloc.3.html)
 * [An annotated example of local variables on the stack](https://www.cs.rutgers.edu/~pxk/419/notes/frames.html)
-
+* [About malloc and calloc](https://books.google.nl/books?id=aOh1DwAAQBAJ&pg=PA118&lpg=PA118&dq=whats+the+maximal+amount+of+heap+i+can+allocate+c+in+one+call&source=bl&ots=s1iwbjALL8&sig=ACfU3U21cvw1ErOOSyxwY3CBl3bhg5blzg&hl=en&sa=X&ved=2ahUKEwi458L3jq7pAhUI2aQKHYvRB48Q6AEwCnoECAYQAQ#v=onepage&q=whats%20the%20maximal%20amount%20of%20heap%20i%20can%20allocate%20c%20in%20one%20call&f=false)
 
 [Brightspace]: https://brightspace.ru.nl/d2l/home/88557
